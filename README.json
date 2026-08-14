@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T19:09:12Z",
+            "last_commit": "2026-08-14T05:43:33Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26668
+            "stars": 26672
           }
         },
         {
@@ -1292,10 +1292,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T14:32:58Z",
+            "last_commit": "2026-08-14T14:11:31Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31237
+            "stars": 31241
           }
         },
         {
@@ -1320,10 +1320,10 @@
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-08-13T21:01:02Z",
+            "last_commit": "2026-08-14T21:18:02Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 5939
+            "stars": 5953
           }
         },
         {
@@ -1337,7 +1337,7 @@
             "last_commit": "2026-08-13T16:40:27Z",
             "owner": "dmjio",
             "repo": "miso",
-            "stars": 2421
+            "stars": 2422
           }
         },
         {
@@ -1351,7 +1351,7 @@
             "last_commit": "2026-08-05T06:47:57Z",
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2406
+            "stars": 2407
           }
         },
         {
@@ -1538,7 +1538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:55:06.367Z",
+    "last_updated": "2026-08-14T21:33:26.875Z",
     "original_repository": "sporto/awesome-elm",
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",
     "enhanced_repository": "enhansome/enhansome-elm",
