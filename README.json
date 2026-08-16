@@ -28,7 +28,7 @@
             "last_commit": "2019-12-30T12:16:10Z",
             "owner": "evancz",
             "repo": "elm-architecture-tutorial",
-            "stars": 4169
+            "stars": 4168
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2025-01-06T10:35:00Z",
             "owner": "dwyl",
             "repo": "learn-elm",
-            "stars": 494
+            "stars": 495
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-15T14:40:27Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26673
+            "stars": 26675
           }
         },
         {
@@ -933,7 +933,7 @@
             "last_commit": "2023-11-03T22:11:23Z",
             "owner": "rtfeldman",
             "repo": "elm-spa-example",
-            "stars": 3303
+            "stars": 3302
           }
         },
         {
@@ -1292,10 +1292,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T14:11:31Z",
+            "last_commit": "2026-08-16T21:26:58Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31255
+            "stars": 31266
           }
         },
         {
@@ -1309,7 +1309,7 @@
             "last_commit": "2025-03-20T01:04:38Z",
             "owner": "hyperapp",
             "repo": "hyperapp",
-            "stars": 19200
+            "stars": 19201
           }
         },
         {
@@ -1320,10 +1320,10 @@
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-08-15T21:16:40Z",
+            "last_commit": "2026-08-16T20:55:28Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 5961
+            "stars": 5967
           }
         },
         {
@@ -1334,7 +1334,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-15T05:54:04Z",
+            "last_commit": "2026-08-16T10:26:58Z",
             "owner": "dmjio",
             "repo": "miso",
             "stars": 2424
@@ -1379,7 +1379,7 @@
             "last_commit": "2025-11-14T16:15:20Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1265
+            "stars": 1266
           }
         },
         {
@@ -1538,7 +1538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:28:39.782Z",
+    "last_updated": "2026-08-16T21:27:53.738Z",
     "original_repository": "sporto/awesome-elm",
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",
     "enhanced_repository": "enhansome/enhansome-elm",
