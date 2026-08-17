@@ -14,7 +14,7 @@
             "last_commit": "2026-07-13T14:09:18Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7875
+            "stars": 7877
           }
         },
         {
@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T14:40:27Z",
+            "last_commit": "2026-08-17T09:51:13Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26675
+            "stars": 26677
           }
         },
         {
@@ -213,7 +213,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T23:16:46Z",
+            "last_commit": "2026-08-17T18:26:08Z",
             "owner": "glideapps",
             "repo": "quicktype",
             "stars": 13840
@@ -432,7 +432,7 @@
             "last_commit": "2024-09-04T11:20:02Z",
             "owner": "rlopzc",
             "repo": "elm-webpack-starter",
-            "stars": 114
+            "stars": 113
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-07-13T14:09:18Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7875
+            "stars": 7877
           }
         },
         {
@@ -694,7 +694,7 @@
             "last_commit": "2025-10-27T22:00:14Z",
             "owner": "hmsk",
             "repo": "vite-plugin-elm",
-            "stars": 219
+            "stars": 220
           }
         }
       ],
@@ -871,7 +871,7 @@
             "last_commit": "2026-03-24T08:18:49Z",
             "owner": "mattn",
             "repo": "emmet-vim",
-            "stars": 6467
+            "stars": 6466
           }
         },
         {
@@ -933,7 +933,7 @@
             "last_commit": "2023-11-03T22:11:23Z",
             "owner": "rtfeldman",
             "repo": "elm-spa-example",
-            "stars": 3302
+            "stars": 3303
           }
         },
         {
@@ -1292,10 +1292,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T21:26:58Z",
+            "last_commit": "2026-08-16T21:29:48Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31266
+            "stars": 31288
           }
         },
         {
@@ -1320,10 +1320,10 @@
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-08-16T20:55:28Z",
+            "last_commit": "2026-08-17T21:30:58Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 5967
+            "stars": 5973
           }
         },
         {
@@ -1334,10 +1334,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-16T10:26:58Z",
+            "last_commit": "2026-08-17T19:58:55Z",
             "owner": "dmjio",
             "repo": "miso",
-            "stars": 2424
+            "stars": 2425
           }
         },
         {
@@ -1351,7 +1351,7 @@
             "last_commit": "2026-08-05T06:47:57Z",
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2409
+            "stars": 2410
           }
         },
         {
@@ -1538,7 +1538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:27:53.738Z",
+    "last_updated": "2026-08-17T21:33:07.674Z",
     "original_repository": "sporto/awesome-elm",
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",
     "enhanced_repository": "enhansome/enhansome-elm",
