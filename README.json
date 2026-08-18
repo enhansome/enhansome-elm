@@ -14,7 +14,7 @@
             "last_commit": "2026-07-13T14:09:18Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7877
+            "stars": 7880
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2018-04-27T10:21:28Z",
             "owner": "izdi",
             "repo": "elm-cheat-sheet",
-            "stars": 947
+            "stars": 948
           }
         },
         {
@@ -199,7 +199,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T09:51:13Z",
+            "last_commit": "2026-08-18T16:36:57Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26677
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-17T18:26:08Z",
             "owner": "glideapps",
             "repo": "quicktype",
-            "stars": 13840
+            "stars": 13841
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2021-10-18T19:49:43Z",
             "owner": "dillonkearns",
             "repo": "elm-typescript-interop",
-            "stars": 164
+            "stars": 165
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-07-13T14:09:18Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7877
+            "stars": 7880
           }
         },
         {
@@ -1295,7 +1295,7 @@
             "last_commit": "2026-08-16T21:29:48Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31288
+            "stars": 31299
           }
         },
         {
@@ -1309,7 +1309,7 @@
             "last_commit": "2025-03-20T01:04:38Z",
             "owner": "hyperapp",
             "repo": "hyperapp",
-            "stars": 19201
+            "stars": 19200
           }
         },
         {
@@ -1320,10 +1320,10 @@
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-08-17T21:30:58Z",
+            "last_commit": "2026-08-18T20:24:23Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 5973
+            "stars": 5980
           }
         },
         {
@@ -1334,7 +1334,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-17T19:58:55Z",
+            "last_commit": "2026-08-18T05:16:49Z",
             "owner": "dmjio",
             "repo": "miso",
             "stars": 2425
@@ -1538,7 +1538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:33:07.674Z",
+    "last_updated": "2026-08-18T21:31:41.421Z",
     "original_repository": "sporto/awesome-elm",
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",
     "enhanced_repository": "enhansome/enhansome-elm",
