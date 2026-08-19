@@ -202,10 +202,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-19T12:19:17Z",
+            "last_commit": "2026-08-19T16:10:47Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26679
+            "stars": 26682
           }
         },
         {
@@ -862,7 +862,7 @@
                 "archived": false,
                 "id": 140211459,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T08:06:06Z",
+                "last_commit": "2026-08-19T21:30:15Z",
                 "owner": "elm-tooling",
                 "repo": "elm-language-server",
                 "stars": 445
@@ -1403,10 +1403,10 @@
             "archived": false,
             "id": 166616185,
             "language": "Zig",
-            "last_commit": "2026-08-19T08:28:51Z",
+            "last_commit": "2026-08-19T20:03:13Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 5983
+            "stars": 5987
           }
         },
         {
@@ -1630,7 +1630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:24:57.840Z",
+    "last_updated": "2026-08-19T21:33:08.785Z",
     "original_repository": "sporto/awesome-elm",
     "original_repository_id": 35763170,
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",

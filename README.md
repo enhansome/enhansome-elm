@@ -6,7 +6,7 @@
     <br />
 </div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18 [![Build Status](https://app.travis-ci.com/sporto/awesome-elm.svg?branch=master)](https://app.travis-ci.com/sporto/awesome-elm)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,800 | 🐛 102 | 📅 2026-08-18 [![Build Status](https://app.travis-ci.com/sporto/awesome-elm.svg?branch=master)](https://app.travis-ci.com/sporto/awesome-elm)
 
 A community driven list of useful Elm tutorials, libraries and software.
 Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
@@ -218,7 +218,7 @@ Tools and libraries to test your Elm applications
 
 ## Code generators
 
-* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,679 | 🐛 5,713 | 🌐 Java | 📅 2026-08-19 - Generate OpenApi types for Elm.
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,682 | 🐛 5,714 | 🌐 Java | 📅 2026-08-19 - Generate OpenApi types for Elm.
 * [Quicktype](https://github.com/quicktype/quicktype) ⭐ 13,841 | 🐛 222 | 🌐 TypeScript | 📅 2026-08-17 - Generate JSON decoders and encoders from JSON
 * [elm-graphql](https://github.com/dillonkearns/elm-graphql) ⭐ 787 | 🐛 38 | 🌐 Elm | 📅 2026-02-14 - Generate GraphQl client code from GraphQL schemas
 * [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) ⚠️ Archived - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
@@ -394,7 +394,7 @@ You can find hundreds of high quality packages at:
 
 ### Sublime Text
 
-* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) ⭐ 445 | 🐛 69 | 🌐 TypeScript | 📅 2026-08-19 - Language server implementation for Elm
+* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) ⭐ 445 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-19 - Language server implementation for Elm
 * [Elm Format on Save](https://github.com/evancz/elm-format-on-save) ⭐ 22 | 🐛 3 | 🌐 Python | 📅 2019-08-09 - Sublime Text plugin to run elm-format on save.
 * [LSP-elm](https://github.com/sublimelsp/LSP-elm) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-05-29 - Elm Language Server for Sublime (Recommended).
 * [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
@@ -494,7 +494,7 @@ You can find hundreds of high quality packages at:
 
 * [Iced](https://github.com/hecrj/iced) ⭐ 31,303 | 🐛 482 | 🌐 Rust | 📅 2026-08-16 - A cross-platform GUI library for Rust, inspired by Elm
 * [Hyperapp](https://github.com/jorgebucaran/hyperapp) ⭐ 19,200 | 🐛 14 | 🌐 JavaScript | 📅 2025-03-20 - A library that provide The Elm Architecture in JavaScript.
-* [Roc](https://github.com/roc-lang/roc) ⭐ 5,983 | 🐛 196 | 🌐 Zig | 📅 2026-08-19 - A language that targets WebAssembly and machine code inspired by Elm.
+* [Roc](https://github.com/roc-lang/roc) ⭐ 5,987 | 🐛 200 | 🌐 Zig | 📅 2026-08-19 - A language that targets WebAssembly and machine code inspired by Elm.
 * [Miso](https://github.com/dmjio/miso) ⭐ 2,425 | 🐛 19 | 🌐 Haskell | 📅 2026-08-18 - A library that provides The Elm Architecture in Haskell.
 * [Lustre](https://github.com/lustre-labs/lustre) ⭐ 2,412 | 🐛 21 | 🌐 Gleam | 📅 2026-08-05 - A library that provides The Elm Architecture in Gleam.
 * [Sauron](https://github.com/ivanceras/sauron) ⭐ 2,066 | 🐛 7 | 🌐 Rust | 📅 2025-01-27 - A library that provides The Elm Architecture in Rust targeting the web.
