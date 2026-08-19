@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4072305,
             "language": "Haskell",
             "last_commit": "2026-07-13T14:09:18Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7880
+            "stars": 7881
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29102483,
             "language": "Elm",
             "last_commit": "2019-12-30T12:16:10Z",
             "owner": "evancz",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51261172,
             "language": "Elm",
             "last_commit": "2018-04-27T10:21:28Z",
             "owner": "izdi",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72917308,
             "language": "HTML",
             "last_commit": "2025-01-06T10:35:00Z",
             "owner": "dwyl",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30055061,
             "language": "Elm",
             "last_commit": "2019-11-08T12:32:58Z",
             "owner": "robertjlooby",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40450119,
             "language": null,
             "last_commit": "2017-02-05T22:53:46Z",
             "owner": "eeue56",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 392666781,
             "language": null,
             "last_commit": "2024-10-24T08:07:33Z",
             "owner": "hayleigh-dot-dev",
@@ -106,39 +113,31 @@
     },
     {
       "description": "Read the essentials. Check the official Elm blog: elm-lang.org/blog",
-      "items": [],
-      "title": "Articles"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "Elm for Web Developers",
-          "description": "A collection of notes for web developers looking into moving to Elm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-01-25T00:37:06Z",
-            "owner": "eeue56",
-            "repo": "elm-for-web-developers",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Composing Features and Behaviours in the Elm Architecture",
-          "description": "An article describing how to organize code that follows the Elm architecture into independent features, how to communicate between features, and how to group some of these features together to assemble larger features.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elm for Web Developers",
+              "description": "A collection of notes for web developers looking into moving to Elm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40670947,
+                "language": null,
+                "last_commit": "2016-01-25T00:37:06Z",
+                "owner": "eeue56",
+                "repo": "elm-for-web-developers",
+                "stars": 55
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Outdated articles (Not relevant for current Elm architecture)"
         }
       ],
-      "title": "Outdated articles (Not relevant for current Elm architecture)"
-    },
-    {
-      "description": "Watch great talks about Elm\nThese are mostly conference talks, for videos about learning Elm look at the Learning Videos section.",
-      "items": [],
-      "title": "Conference Videos"
+      "title": "Articles"
     },
     {
       "description": "Tools and libraries to test your Elm applications",
@@ -150,6 +149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131324198,
             "language": "Elm",
             "last_commit": "2026-07-22T18:09:16Z",
             "owner": "elm-explorations",
@@ -164,6 +164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126131978,
             "language": "Elm",
             "last_commit": "2026-05-18T16:23:45Z",
             "owner": "avh4",
@@ -178,6 +179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198616838,
             "language": "Elm",
             "last_commit": "2023-08-19T03:11:51Z",
             "owner": "brian-watkins",
@@ -189,7 +191,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -198,11 +200,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-18T16:36:57Z",
+            "last_commit": "2026-08-19T12:19:17Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26677
+            "stars": 26679
           }
         },
         {
@@ -212,6 +215,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97062850,
             "language": "TypeScript",
             "last_commit": "2026-08-17T18:26:08Z",
             "owner": "glideapps",
@@ -226,6 +230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112020128,
             "language": "Elm",
             "last_commit": "2026-02-14T02:47:31Z",
             "owner": "dillonkearns",
@@ -240,6 +245,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100758203,
             "language": "Elm",
             "last_commit": "2021-10-18T19:49:43Z",
             "owner": "dillonkearns",
@@ -254,6 +260,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 366409784,
             "language": "Elm",
             "last_commit": "2026-04-21T21:42:19Z",
             "owner": "mdgriffith",
@@ -268,6 +275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40443310,
             "language": "Elm",
             "last_commit": "2026-03-23T13:07:01Z",
             "owner": "agrafix",
@@ -282,6 +290,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 216766035,
             "language": "JavaScript",
             "last_commit": "2022-12-10T06:28:08Z",
             "owner": "monty5811",
@@ -296,6 +305,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84006914,
             "language": "Elixir",
             "last_commit": "2026-06-09T07:20:23Z",
             "owner": "dragonwasrobot",
@@ -310,6 +320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535121758,
             "language": "Elm",
             "last_commit": "2024-09-14T20:04:16Z",
             "owner": "vendrinc",
@@ -324,6 +335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188439457,
             "language": "Haskell",
             "last_commit": "2024-08-07T23:04:38Z",
             "owner": "haskell-to-elm",
@@ -338,6 +350,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433056150,
             "language": "Elm",
             "last_commit": "2026-02-09T20:52:23Z",
             "owner": "anmolitor",
@@ -352,6 +365,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312894069,
             "language": "Elm",
             "last_commit": "2026-04-08T20:50:26Z",
             "owner": "dillonkearns",
@@ -366,6 +380,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421083126,
             "language": "Elm",
             "last_commit": "2024-11-25T05:32:32Z",
             "owner": "anmolitor",
@@ -386,6 +401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67362231,
             "language": "JavaScript",
             "last_commit": "2026-07-28T18:47:10Z",
             "owner": "halfzebra",
@@ -400,6 +416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46166473,
             "language": "JavaScript",
             "last_commit": "2022-06-18T15:21:19Z",
             "owner": "wking-io",
@@ -414,6 +431,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177555713,
             "language": "Elm",
             "last_commit": "2021-10-21T19:44:16Z",
             "owner": "cedricss",
@@ -428,6 +446,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127054802,
             "language": "Elm",
             "last_commit": "2024-09-04T11:20:02Z",
             "owner": "rlopzc",
@@ -442,6 +461,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231252535,
             "language": "JavaScript",
             "last_commit": "2023-03-05T11:49:40Z",
             "owner": "GioPat",
@@ -456,136 +476,146 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145580829,
             "language": "JavaScript",
             "last_commit": "2019-02-06T19:14:32Z",
             "owner": "klazuka",
             "repo": "example-elm-hot-webpack",
             "stars": 8
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elm-webpack-starter",
+              "description": "A simple Webpack setup for writing Elm apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48860215,
+                "language": "JavaScript",
+                "last_commit": "2021-12-12T20:40:22Z",
+                "owner": "elm-community",
+                "repo": "elm-webpack-starter",
+                "stars": 851
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elm-app-boilerplate",
+              "description": "A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51555869,
+                "language": "Elm",
+                "last_commit": "2018-01-14T23:30:24Z",
+                "owner": "gkubisa",
+                "repo": "elm-app-boilerplate",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elm-new",
+              "description": "Generate initial project scaffolding based on a template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59429460,
+                "language": "Shell",
+                "last_commit": "2020-06-05T14:31:52Z",
+                "owner": "simonewebdesign",
+                "repo": "elm-new",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elmkit",
+              "description": "A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69867684,
+                "language": "Elm",
+                "last_commit": "2026-05-07T12:45:03Z",
+                "owner": "khusnetdinov",
+                "repo": "elmkit",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elm-init",
+              "description": "Interactive setup for new Elm projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35406297,
+                "language": "Haskell",
+                "last_commit": "2016-10-08T09:50:45Z",
+                "owner": "JustusAdam",
+                "repo": "elm-init",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elm-webpack-starter-kid",
+              "description": "A very very basic elm + webpack 4 template.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 124259207,
+                "language": "Elm",
+                "last_commit": "2018-10-25T21:54:14Z",
+                "owner": "janwirth",
+                "repo": "elm-webpack-starter-kid",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elm-boilerplate",
+              "description": "A simple Makefile able to create Elm app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104641671,
+                "language": "Makefile",
+                "last_commit": "2017-09-30T14:33:51Z",
+                "owner": "guillaumearm",
+                "repo": "elm-boilerplate",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "generator-elm-mdl",
+              "description": "Yeoman generator for a simple elm application utilizing Material Design.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117655390,
+                "language": "Elm",
+                "last_commit": "2024-07-07T04:22:42Z",
+                "owner": "ashellwig",
+                "repo": "generator-elm-mdl",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Outdated Boilerplates"
         }
       ],
       "title": "Boilerplates"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "elm-webpack-starter",
-          "description": "A simple Webpack setup for writing Elm apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-12-12T20:40:22Z",
-            "owner": "elm-community",
-            "repo": "elm-webpack-starter",
-            "stars": 851
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elm-app-boilerplate",
-          "description": "A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elm",
-            "last_commit": "2018-01-14T23:30:24Z",
-            "owner": "gkubisa",
-            "repo": "elm-app-boilerplate",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elm-new",
-          "description": "Generate initial project scaffolding based on a template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2020-06-05T14:31:52Z",
-            "owner": "simonewebdesign",
-            "repo": "elm-new",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elmkit",
-          "description": "A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elm",
-            "last_commit": "2026-05-07T12:45:03Z",
-            "owner": "khusnetdinov",
-            "repo": "elmkit",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elm-init",
-          "description": "Interactive setup for new Elm projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2016-10-08T09:50:45Z",
-            "owner": "JustusAdam",
-            "repo": "elm-init",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elm-webpack-starter-kid",
-          "description": "A very very basic elm + webpack 4 template.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Elm",
-            "last_commit": "2018-10-25T21:54:14Z",
-            "owner": "janwirth",
-            "repo": "elm-webpack-starter-kid",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elm-boilerplate",
-          "description": "A simple Makefile able to create Elm app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2017-09-30T14:33:51Z",
-            "owner": "guillaumearm",
-            "repo": "elm-boilerplate",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "generator-elm-mdl",
-          "description": "Yeoman generator for a simple elm application utilizing Material Design.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elm",
-            "last_commit": "2024-07-07T04:22:42Z",
-            "owner": "ashellwig",
-            "repo": "generator-elm-mdl",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Outdated Boilerplates"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -594,6 +624,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79642135,
             "language": "Elm",
             "last_commit": "2023-04-19T09:20:42Z",
             "owner": "stil4m",
@@ -608,6 +639,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211512078,
             "language": "Elm",
             "last_commit": "2026-06-05T10:14:08Z",
             "owner": "jfmengels",
@@ -619,7 +651,7 @@
       "title": "Static analysis"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -628,6 +660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368145352,
             "language": "TypeScript",
             "last_commit": "2026-07-13T16:33:41Z",
             "owner": "lydell",
@@ -642,6 +675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80073391,
             "language": "JavaScript",
             "last_commit": "2021-09-26T14:30:32Z",
             "owner": "jfairbank",
@@ -653,7 +687,7 @@
       "title": "Run Elm"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -662,11 +696,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4072305,
             "language": "Haskell",
             "last_commit": "2026-07-13T14:09:18Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7880
+            "stars": 7881
           }
         },
         {
@@ -676,6 +711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32271087,
             "language": "JavaScript",
             "last_commit": "2024-01-09T14:51:31Z",
             "owner": "elm-community",
@@ -690,6 +726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300526373,
             "language": "TypeScript",
             "last_commit": "2025-10-27T22:00:14Z",
             "owner": "hmsk",
@@ -710,6 +747,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42377692,
             "language": "Haskell",
             "last_commit": "2025-06-19T02:56:33Z",
             "owner": "avh4",
@@ -724,6 +762,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126707766,
             "language": "TypeScript",
             "last_commit": "2026-04-10T08:35:11Z",
             "owner": "gicentre",
@@ -738,6 +777,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117700696,
             "language": null,
             "last_commit": "2022-11-14T10:32:09Z",
             "owner": "stereobooster",
@@ -752,6 +792,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182570601,
             "language": "Rust",
             "last_commit": "2023-07-26T17:32:26Z",
             "owner": "zwilias",
@@ -766,6 +807,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38589208,
             "language": "JavaScript",
             "last_commit": "2017-10-17T01:50:08Z",
             "owner": "ElmCast",
@@ -780,6 +822,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149329690,
             "language": "Elm",
             "last_commit": "2026-03-30T11:21:22Z",
             "owner": "dmy",
@@ -794,6 +837,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317025206,
             "language": "Elm",
             "last_commit": "2021-10-18T13:17:51Z",
             "owner": "albertdahlin",
@@ -806,118 +850,128 @@
     },
     {
       "description": "Tools to support Elm in code editors.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elm Language Server",
+              "description": "Language server implementation for Elm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140211459,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:06:06Z",
+                "owner": "elm-tooling",
+                "repo": "elm-language-server",
+                "stars": 445
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elm Format on Save",
+              "description": "Sublime Text plugin to run elm-format on save.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200411813,
+                "language": "Python",
+                "last_commit": "2019-08-09T19:56:54Z",
+                "owner": "evancz",
+                "repo": "elm-format-on-save",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LSP-elm",
+              "description": "Elm Language Server for Sublime (Recommended).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217999168,
+                "language": "Python",
+                "last_commit": "2026-05-29T19:31:55Z",
+                "owner": "sublimelsp",
+                "repo": "LSP-elm",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sublime Text"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "emmet-vim",
+              "description": "Markup expansion with elm support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 524305,
+                "language": "Vim Script",
+                "last_commit": "2026-03-24T08:18:49Z",
+                "owner": "mattn",
+                "repo": "emmet-vim",
+                "stars": 6466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ElmCast/elm-vim",
+              "description": "Elm 0.18 mode for Vim/Neovim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37233770,
+                "language": "Vim script",
+                "last_commit": "2021-05-19T08:15:04Z",
+                "owner": "ElmCast",
+                "repo": "elm-vim",
+                "stars": 572
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vim-elm-help",
+              "description": "Offline Elm documentation access in your editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68351694,
+                "language": "Perl",
+                "last_commit": "2020-06-20T18:29:00Z",
+                "owner": "hoelzro",
+                "repo": "vim-elm-help",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theJian/elm.vim",
+              "description": "Elm syntax highlighting. Use with ale or Neoformat for Neovim since ElmCast/elm-vim does not support Elm 0.19.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100624990,
+                "language": "Vim script",
+                "last_commit": "2018-06-12T13:20:56Z",
+                "owner": "theJian",
+                "repo": "elm.vim",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vim/Neovim"
+        }
+      ],
       "title": "Editor plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Elm Language Server",
-          "description": "Language server implementation for Elm",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T18:39:28Z",
-            "owner": "elm-tooling",
-            "repo": "elm-language-server",
-            "stars": 445
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elm Format on Save",
-          "description": "Sublime Text plugin to run elm-format on save.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-08-09T19:56:54Z",
-            "owner": "evancz",
-            "repo": "elm-format-on-save",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LSP-elm",
-          "description": "Elm Language Server for Sublime (Recommended).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-29T19:31:55Z",
-            "owner": "sublimelsp",
-            "repo": "LSP-elm",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Sublime Text"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "emmet-vim",
-          "description": "Markup expansion with elm support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2026-03-24T08:18:49Z",
-            "owner": "mattn",
-            "repo": "emmet-vim",
-            "stars": 6466
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ElmCast/elm-vim",
-          "description": "Elm 0.18 mode for Vim/Neovim.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim script",
-            "last_commit": "2021-05-19T08:15:04Z",
-            "owner": "ElmCast",
-            "repo": "elm-vim",
-            "stars": 572
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vim-elm-help",
-          "description": "Offline Elm documentation access in your editor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2020-06-20T18:29:00Z",
-            "owner": "hoelzro",
-            "repo": "vim-elm-help",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theJian/elm.vim",
-          "description": "Elm syntax highlighting. Use with ale or Neoformat for Neovim since ElmCast/elm-vim does not support Elm 0.19.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim script",
-            "last_commit": "2018-06-12T13:20:56Z",
-            "owner": "theJian",
-            "repo": "elm.vim",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Vim/Neovim"
     },
     {
       "description": "Some good apps written in Elm.",
@@ -929,6 +983,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90600001,
             "language": "Elm",
             "last_commit": "2023-11-03T22:11:23Z",
             "owner": "rtfeldman",
@@ -943,6 +998,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21899109,
             "language": "Elm",
             "last_commit": "2020-01-07T21:49:33Z",
             "owner": "evancz",
@@ -957,6 +1013,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49986492,
             "language": "Elm",
             "last_commit": "2018-12-10T09:00:58Z",
             "owner": "sporto",
@@ -971,6 +1028,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113928693,
             "language": "Elm",
             "last_commit": "2019-04-24T16:28:41Z",
             "owner": "huytd",
@@ -985,6 +1043,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50286347,
             "language": "Elm",
             "last_commit": "2016-08-19T09:10:26Z",
             "owner": "mt-bt",
@@ -999,6 +1058,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61290143,
             "language": "JavaScript",
             "last_commit": "2019-02-04T12:55:58Z",
             "owner": "halfzebra",
@@ -1013,6 +1073,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61602719,
             "language": "Elm",
             "last_commit": "2023-08-18T21:18:20Z",
             "owner": "jschomay",
@@ -1027,6 +1088,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61809198,
             "language": "Elm",
             "last_commit": "2017-09-27T01:01:26Z",
             "owner": "andrewsuzuki",
@@ -1041,6 +1103,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 64300838,
             "language": "SCSS",
             "last_commit": "2022-10-09T08:36:55Z",
             "owner": "nirgn975",
@@ -1055,6 +1118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88773918,
             "language": "Elm",
             "last_commit": "2023-03-04T01:00:56Z",
             "owner": "FidelisClayton",
@@ -1069,6 +1133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40179454,
             "language": "Elm",
             "last_commit": "2016-06-16T20:06:36Z",
             "owner": "ThomasWeiser",
@@ -1083,6 +1148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44479981,
             "language": "Kotlin",
             "last_commit": "2016-10-05T19:04:50Z",
             "owner": "glung",
@@ -1097,6 +1163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88850577,
             "language": "Elixir",
             "last_commit": "2018-07-07T19:16:54Z",
             "owner": "ronanyeah",
@@ -1111,6 +1178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205923606,
             "language": "Elm",
             "last_commit": "2023-01-05T04:53:11Z",
             "owner": "teesloane",
@@ -1125,6 +1193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37915595,
             "language": "JavaScript",
             "last_commit": "2017-06-30T07:43:49Z",
             "owner": "ohanhi",
@@ -1139,6 +1208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179673193,
             "language": "JavaScript",
             "last_commit": "2024-01-05T15:44:28Z",
             "owner": "johannesvollmer",
@@ -1153,6 +1223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101388102,
             "language": "Elm",
             "last_commit": "2017-08-26T08:59:40Z",
             "owner": "denisorehovsky",
@@ -1167,6 +1238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73040198,
             "language": "Elm",
             "last_commit": "2021-05-25T01:33:18Z",
             "owner": "bkbooth",
@@ -1181,6 +1253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99045116,
             "language": "Elm",
             "last_commit": "2021-03-15T11:01:29Z",
             "owner": "brenopanzolini",
@@ -1195,6 +1268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260323873,
             "language": "Elm",
             "last_commit": "2021-07-18T00:16:39Z",
             "owner": "tarbh-engineering",
@@ -1209,6 +1283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106122702,
             "language": "Elm",
             "last_commit": "2017-10-10T19:05:02Z",
             "owner": "jouderianjr",
@@ -1223,6 +1298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109396937,
             "language": "Elm",
             "last_commit": "2017-10-21T12:01:08Z",
             "owner": "devopsmariocom",
@@ -1237,49 +1313,53 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570829425,
             "language": "Elm",
             "last_commit": "2022-11-26T09:22:24Z",
             "owner": "pecheneg2015",
             "repo": "elm-conway-life",
             "stars": 0
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elm-games",
+              "description": "An excellent list of games made in Elm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79026434,
+                "language": null,
+                "last_commit": "2023-04-05T03:02:29Z",
+                "owner": "rofrol",
+                "repo": "elm-games",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TheSpace App",
+              "description": "A reddit place like DApp with blockchain and canvas(through port) integration in Elm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493936645,
+                "language": "Elm",
+                "last_commit": "2022-08-18T08:26:57Z",
+                "owner": "thematters",
+                "repo": "thespace-app",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games"
         }
       ],
       "title": "Examples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "elm-games",
-          "description": "An excellent list of games made in Elm",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-04-05T03:02:29Z",
-            "owner": "rofrol",
-            "repo": "elm-games",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TheSpace App",
-          "description": "A reddit place like DApp with blockchain and canvas(through port) integration in Elm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elm",
-            "last_commit": "2022-08-18T08:26:57Z",
-            "owner": "thematters",
-            "repo": "thespace-app",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Games"
     },
     {
       "description": "Some projects influenced by Elm",
@@ -1291,11 +1371,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197081291,
             "language": "Rust",
             "last_commit": "2026-08-16T21:29:48Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31299
+            "stars": 31303
           }
         },
         {
@@ -1305,6 +1386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79527893,
             "language": "JavaScript",
             "last_commit": "2025-03-20T01:04:38Z",
             "owner": "hyperapp",
@@ -1319,11 +1401,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166616185,
             "language": "Zig",
-            "last_commit": "2026-08-18T20:24:23Z",
+            "last_commit": "2026-08-19T08:28:51Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 5980
+            "stars": 5983
           }
         },
         {
@@ -1333,6 +1416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61973641,
             "language": "Haskell",
             "last_commit": "2026-08-18T05:16:49Z",
             "owner": "dmjio",
@@ -1347,11 +1431,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457999787,
             "language": "Gleam",
             "last_commit": "2026-08-05T06:47:57Z",
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2410
+            "stars": 2412
           }
         },
         {
@@ -1361,6 +1446,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181514298,
             "language": "Rust",
             "last_commit": "2025-01-27T11:51:25Z",
             "owner": "ivanceras",
@@ -1375,6 +1461,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120334619,
             "language": "F#",
             "last_commit": "2025-11-14T16:15:20Z",
             "owner": "fabulous-dev",
@@ -1389,6 +1476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118132535,
             "language": "Java",
             "last_commit": "2026-08-07T08:54:04Z",
             "owner": "spotify",
@@ -1403,6 +1491,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 81605260,
             "language": "Elm",
             "last_commit": "2020-03-17T13:19:41Z",
             "owner": "wende",
@@ -1417,6 +1506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67582233,
             "language": "F#",
             "last_commit": "2026-08-10T13:01:56Z",
             "owner": "elmish",
@@ -1431,6 +1521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79946642,
             "language": "JavaScript",
             "last_commit": "2024-06-11T10:40:41Z",
             "owner": "OvermindDL1",
@@ -1445,6 +1536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180029846,
             "language": "PureScript",
             "last_commit": "2026-08-12T02:18:57Z",
             "owner": "easafe",
@@ -1459,6 +1551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167451374,
             "language": "TypeScript",
             "last_commit": "2026-05-06T12:24:57Z",
             "owner": "vankeisb",
@@ -1479,6 +1572,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78588810,
             "language": "Elm",
             "last_commit": "2019-09-04T10:51:36Z",
             "owner": "ktonon",
@@ -1493,6 +1587,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101137078,
             "language": "C",
             "last_commit": "2018-09-08T21:43:11Z",
             "owner": "pzp1997",
@@ -1507,6 +1602,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317025206,
             "language": "Elm",
             "last_commit": "2021-10-18T13:17:51Z",
             "owner": "albertdahlin",
@@ -1521,6 +1617,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113453566,
             "language": "Haskell",
             "last_commit": "2018-02-17T14:30:49Z",
             "owner": "Chadtech",
@@ -1530,16 +1627,12 @@
         }
       ],
       "title": "Beyond the DOM"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:31:41.421Z",
+    "last_updated": "2026-08-19T12:24:57.840Z",
     "original_repository": "sporto/awesome-elm",
+    "original_repository_id": 35763170,
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",
     "enhanced_repository": "enhansome/enhansome-elm",
     "enhanced_repository_description": null,
