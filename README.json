@@ -15,7 +15,7 @@
             "last_commit": "2026-07-13T14:09:18Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7881
+            "stars": 7882
           }
         },
         {
@@ -202,7 +202,7 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-19T16:10:47Z",
+            "last_commit": "2026-08-20T07:41:29Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26682
@@ -701,7 +701,7 @@
             "last_commit": "2026-07-13T14:09:18Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7881
+            "stars": 7882
           }
         },
         {
@@ -862,7 +862,7 @@
                 "archived": false,
                 "id": 140211459,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T21:30:15Z",
+                "last_commit": "2026-08-20T00:35:16Z",
                 "owner": "elm-tooling",
                 "repo": "elm-language-server",
                 "stars": 445
@@ -1376,7 +1376,7 @@
             "last_commit": "2026-08-16T21:29:48Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31303
+            "stars": 31320
           }
         },
         {
@@ -1403,10 +1403,10 @@
             "archived": false,
             "id": 166616185,
             "language": "Zig",
-            "last_commit": "2026-08-19T20:03:13Z",
+            "last_commit": "2026-08-20T21:04:06Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 5987
+            "stars": 5992
           }
         },
         {
@@ -1418,10 +1418,10 @@
             "archived": false,
             "id": 61973641,
             "language": "Haskell",
-            "last_commit": "2026-08-18T05:16:49Z",
+            "last_commit": "2026-08-20T10:45:12Z",
             "owner": "dmjio",
             "repo": "miso",
-            "stars": 2425
+            "stars": 2427
           }
         },
         {
@@ -1511,7 +1511,7 @@
             "last_commit": "2026-08-10T13:01:56Z",
             "owner": "elmish",
             "repo": "elmish",
-            "stars": 904
+            "stars": 905
           }
         },
         {
@@ -1526,7 +1526,7 @@
             "last_commit": "2024-06-11T10:40:41Z",
             "owner": "OvermindDL1",
             "repo": "bucklescript-tea",
-            "stars": 600
+            "stars": 598
           }
         },
         {
@@ -1630,7 +1630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:33:08.785Z",
+    "last_updated": "2026-08-20T21:35:51.088Z",
     "original_repository": "sporto/awesome-elm",
     "original_repository_id": 35763170,
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",
