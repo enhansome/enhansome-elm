@@ -202,7 +202,7 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-20T07:41:29Z",
+            "last_commit": "2026-08-21T05:55:46Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26682
@@ -917,7 +917,7 @@
                 "last_commit": "2026-03-24T08:18:49Z",
                 "owner": "mattn",
                 "repo": "emmet-vim",
-                "stars": 6466
+                "stars": 6464
               }
             },
             {
@@ -1376,7 +1376,7 @@
             "last_commit": "2026-08-16T21:29:48Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31320
+            "stars": 31326
           }
         },
         {
@@ -1391,7 +1391,7 @@
             "last_commit": "2025-03-20T01:04:38Z",
             "owner": "hyperapp",
             "repo": "hyperapp",
-            "stars": 19200
+            "stars": 19201
           }
         },
         {
@@ -1403,10 +1403,10 @@
             "archived": false,
             "id": 166616185,
             "language": "Zig",
-            "last_commit": "2026-08-20T21:04:06Z",
+            "last_commit": "2026-08-21T19:05:07Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 5992
+            "stars": 5995
           }
         },
         {
@@ -1418,7 +1418,7 @@
             "archived": false,
             "id": 61973641,
             "language": "Haskell",
-            "last_commit": "2026-08-20T10:45:12Z",
+            "last_commit": "2026-08-21T17:25:19Z",
             "owner": "dmjio",
             "repo": "miso",
             "stars": 2427
@@ -1436,7 +1436,7 @@
             "last_commit": "2026-08-05T06:47:57Z",
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2412
+            "stars": 2414
           }
         },
         {
@@ -1496,7 +1496,7 @@
             "last_commit": "2020-03-17T13:19:41Z",
             "owner": "wende",
             "repo": "elchemy",
-            "stars": 1149
+            "stars": 1150
           }
         },
         {
@@ -1630,7 +1630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:35:51.088Z",
+    "last_updated": "2026-08-21T21:31:59.147Z",
     "original_repository": "sporto/awesome-elm",
     "original_repository_id": 35763170,
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",
