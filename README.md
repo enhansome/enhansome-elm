@@ -6,7 +6,7 @@
     <br />
 </div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,619 | 🐛 105 | 📅 2026-08-21 [![Build Status](https://app.travis-ci.com/sporto/awesome-elm.svg?branch=master)](https://app.travis-ci.com/sporto/awesome-elm)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,960 | 🐛 106 | 📅 2026-08-21 [![Build Status](https://app.travis-ci.com/sporto/awesome-elm.svg?branch=master)](https://app.travis-ci.com/sporto/awesome-elm)
 
 A community driven list of useful Elm tutorials, libraries and software.
 Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
@@ -46,7 +46,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Learn what this awesome thing is.*
 
-* [Codings hints](https://github.com/elm/compiler/tree/master/hints) ⭐ 7,882 | 🐛 304 | 🌐 Haskell | 📅 2026-07-13 - A list of README files by Evan.
+* [Codings hints](https://github.com/elm/compiler/tree/master/hints) ⭐ 7,883 | 🐛 304 | 🌐 Haskell | 📅 2026-07-13 - A list of README files by Evan.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) ⭐ 4,168 | 🐛 10 | 🌐 Elm | 📅 2019-12-30 - How to create modular Elm code that scales nicely with your app.
 * [Elm cheat sheet](https://github.com/izdi/elm-cheat-sheet) ⭐ 948 | 🐛 2 | 🌐 Elm | 📅 2018-04-27 - Syntax and features overview.
 * [Learn Elm](https://github.com/dwyl/learn-elm) ⭐ 495 | 🐛 98 | 🌐 HTML | 📅 2025-01-06 - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
@@ -208,7 +208,7 @@ These are mostly conference talks, for videos about learning Elm look at the [Le
 
 Tools and libraries to test your Elm applications
 
-* [Elm test](https://github.com/elm-explorations/test) ⭐ 244 | 🐛 99 | 🌐 Elm | 📅 2026-07-22 - Unit and fuzz tests
+* [Elm test](https://github.com/elm-explorations/test) ⭐ 244 | 🐛 101 | 🌐 Elm | 📅 2026-07-22 - Unit and fuzz tests
 * [Elm Program test](https://github.com/avh4/elm-program-test/tree/3.0.0) ⭐ 95 | 🐛 50 | 🌐 Elm | 📅 2026-05-18 - Test complete Elm programs
 * [Elm Spec](https://github.com/brian-watkins/elm-spec) ⭐ 33 | 🐛 16 | 🌐 Elm | 📅 2023-08-19 - Describe the behavior of Elm programs.
 
@@ -218,8 +218,8 @@ Tools and libraries to test your Elm applications
 
 ## Code generators
 
-* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,682 | 🐛 5,722 | 🌐 Java | 📅 2026-08-21 - Generate OpenApi types for Elm.
-* [Quicktype](https://github.com/quicktype/quicktype) ⭐ 13,841 | 🐛 222 | 🌐 TypeScript | 📅 2026-08-17 - Generate JSON decoders and encoders from JSON
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,682 | 🐛 5,722 | 🌐 Java | 📅 2026-08-22 - Generate OpenApi types for Elm.
+* [Quicktype](https://github.com/quicktype/quicktype) ⭐ 13,840 | 🐛 222 | 🌐 TypeScript | 📅 2026-08-17 - Generate JSON decoders and encoders from JSON
 * [elm-graphql](https://github.com/dillonkearns/elm-graphql) ⭐ 787 | 🐛 38 | 🌐 Elm | 📅 2026-02-14 - Generate GraphQl client code from GraphQL schemas
 * [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) ⚠️ Archived - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
 * [Elm CodeGen](https://github.com/mdgriffith/elm-codegen) ⭐ 145 | 🐛 19 | 🌐 Elm | 📅 2026-04-21 - Generate Elm code
@@ -340,7 +340,7 @@ You can find hundreds of high quality packages at:
 
 ## Compile and bundle
 
-* [elm-compiler](https://github.com/elm/compiler) ⭐ 7,882 | 🐛 304 | 🌐 Haskell | 📅 2026-07-13 - The official Elm compiler.
+* [elm-compiler](https://github.com/elm/compiler) ⭐ 7,883 | 🐛 304 | 🌐 Haskell | 📅 2026-07-13 - The official Elm compiler.
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) ⭐ 532 | 🐛 53 | 🌐 JavaScript | 📅 2024-01-09 - Webpack loader Elm.
 * [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) ⭐ 220 | 🐛 19 | 🌐 TypeScript | 📅 2025-10-27 - Vite plugin for Elm.
 * [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel.
@@ -492,10 +492,10 @@ You can find hundreds of high quality packages at:
 
 *Some projects influenced by Elm*
 
-* [Iced](https://github.com/hecrj/iced) ⭐ 31,326 | 🐛 484 | 🌐 Rust | 📅 2026-08-16 - A cross-platform GUI library for Rust, inspired by Elm
+* [Iced](https://github.com/hecrj/iced) ⭐ 31,337 | 🐛 484 | 🌐 Rust | 📅 2026-08-16 - A cross-platform GUI library for Rust, inspired by Elm
 * [Hyperapp](https://github.com/jorgebucaran/hyperapp) ⭐ 19,201 | 🐛 14 | 🌐 JavaScript | 📅 2025-03-20 - A library that provide The Elm Architecture in JavaScript.
-* [Roc](https://github.com/roc-lang/roc) ⭐ 5,995 | 🐛 210 | 🌐 Zig | 📅 2026-08-21 - A language that targets WebAssembly and machine code inspired by Elm.
-* [Miso](https://github.com/dmjio/miso) ⭐ 2,427 | 🐛 20 | 🌐 Haskell | 📅 2026-08-21 - A library that provides The Elm Architecture in Haskell.
+* [Roc](https://github.com/roc-lang/roc) ⭐ 5,999 | 🐛 208 | 🌐 Zig | 📅 2026-08-22 - A language that targets WebAssembly and machine code inspired by Elm.
+* [Miso](https://github.com/dmjio/miso) ⭐ 2,427 | 🐛 19 | 🌐 Haskell | 📅 2026-08-22 - A library that provides The Elm Architecture in Haskell.
 * [Lustre](https://github.com/lustre-labs/lustre) ⭐ 2,414 | 🐛 21 | 🌐 Gleam | 📅 2026-08-05 - A library that provides The Elm Architecture in Gleam.
 * [Sauron](https://github.com/ivanceras/sauron) ⭐ 2,066 | 🐛 7 | 🌐 Rust | 📅 2025-01-27 - A library that provides The Elm Architecture in Rust targeting the web.
 * [Fabulous](https://github.com/fsprojects/Fabulous) ⭐ 1,266 | 🐛 14 | 🌐 F# | 📅 2025-11-14 - F# Functional App Development, using declarative dynamic UI
@@ -549,4 +549,4 @@ Awesome Elm is just a part of awesome thing, get more here:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
