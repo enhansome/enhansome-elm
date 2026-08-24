@@ -249,7 +249,7 @@
             "last_commit": "2026-08-24T13:21:35Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26686
+            "stars": 26687
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-17T18:26:08Z",
             "owner": "glideapps",
             "repo": "quicktype",
-            "stars": 13843
+            "stars": 13844
           }
         },
         {
@@ -1572,7 +1572,7 @@
             "last_commit": "2026-08-16T21:29:48Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31344
+            "stars": 31346
           }
         },
         {
@@ -1599,10 +1599,10 @@
             "archived": false,
             "id": 166616185,
             "language": "Zig",
-            "last_commit": "2026-08-24T13:29:29Z",
+            "last_commit": "2026-08-24T21:22:57Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 6006
+            "stars": 6008
           }
         },
         {
@@ -1614,7 +1614,7 @@
             "archived": false,
             "id": 61973641,
             "language": "Haskell",
-            "last_commit": "2026-08-24T13:34:03Z",
+            "last_commit": "2026-08-24T17:02:15Z",
             "owner": "dmjio",
             "repo": "miso",
             "stars": 2428
@@ -1632,7 +1632,7 @@
             "last_commit": "2026-08-23T13:30:06Z",
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2415
+            "stars": 2416
           }
         },
         {
@@ -1659,7 +1659,7 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-24T13:48:00Z",
+            "last_commit": "2026-08-24T18:58:16Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
@@ -1839,7 +1839,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499509
+            "stars": 499596
           }
         },
         {
@@ -1854,7 +1854,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33620
+            "stars": 33621
           }
         }
       ],
@@ -1862,7 +1862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:58:16.203Z",
+    "last_updated": "2026-08-24T21:37:08.016Z",
     "original_repository": "sporto/awesome-elm",
     "original_repository_id": 35763170,
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",
