@@ -15,7 +15,7 @@
             "last_commit": "2026-07-13T14:09:18Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7883
+            "stars": 7884
           }
         },
         {
@@ -105,8 +105,30 @@
             "last_commit": "2024-10-24T08:07:33Z",
             "owner": "hayleigh-dot-dev",
             "repo": "awesome-elm-pltd",
-            "stars": 46
+            "stars": 47
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Writing native",
+              "description": "Learn how to create native JavaScript modules for Elm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46151675,
+                "language": "Elm",
+                "last_commit": "2016-03-03T11:49:43Z",
+                "owner": "eeue56",
+                "repo": "take-home",
+                "stars": 358
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Outdated Tutorials and books (Elm 0.18 or earlier)"
         }
       ],
       "title": "Learning Guides"
@@ -114,6 +136,28 @@
     {
       "description": "Read the essentials. Check the official Elm blog: elm-lang.org/blog",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FP with games in Elm",
+              "description": "Switching from imperative to functional programming with games in Elm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14185011,
+                "language": "Python",
+                "last_commit": "2026-01-01T15:39:53Z",
+                "owner": "Dobiasd",
+                "repo": "articles",
+                "stars": 1587
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Why Elm?"
+        },
         {
           "children": [
             {
@@ -151,7 +195,7 @@
             "archived": false,
             "id": 131324198,
             "language": "Elm",
-            "last_commit": "2026-07-22T18:09:16Z",
+            "last_commit": "2026-08-24T08:50:16Z",
             "owner": "elm-explorations",
             "repo": "test",
             "stars": 244
@@ -202,10 +246,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-23T14:14:36Z",
+            "last_commit": "2026-08-24T13:21:35Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26682
+            "stars": 26686
           }
         },
         {
@@ -220,7 +264,7 @@
             "last_commit": "2026-08-17T18:26:08Z",
             "owner": "glideapps",
             "repo": "quicktype",
-            "stars": 13842
+            "stars": 13843
           }
         },
         {
@@ -307,7 +351,7 @@
             "archived": false,
             "id": 84006914,
             "language": "Elixir",
-            "last_commit": "2026-06-09T07:20:23Z",
+            "last_commit": "2026-08-24T04:03:12Z",
             "owner": "dragonwasrobot",
             "repo": "json-schema-to-elm",
             "stars": 92
@@ -655,6 +699,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "elm-starter",
+          "description": "An experimental Elm-based bootstrapper that can also be plugged into already existing Elm applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279243815,
+            "language": "Elm",
+            "last_commit": "2022-12-11T14:22:02Z",
+            "owner": "lucamug",
+            "repo": "elm-starter",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Static site generators"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elm UI Explorer",
+          "description": "Showcase your views and states.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95826226,
+            "language": "CSS",
+            "last_commit": "2023-03-05T03:00:06Z",
+            "owner": "kalutheo",
+            "repo": "elm-ui-explorer",
+            "stars": 218
+          }
+        }
+      ],
+      "title": "Showcase generators"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Elm Watch",
           "description": "in watch mode. Fast and reliable.",
           "children": [],
@@ -701,7 +787,7 @@
             "last_commit": "2026-07-13T14:09:18Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7883
+            "stars": 7884
           }
         },
         {
@@ -733,6 +819,28 @@
             "repo": "vite-plugin-elm",
             "stars": 220
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grunt-elm",
+              "description": "Grunt plugin that compiles Elm files to JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24923942,
+                "language": "JavaScript",
+                "last_commit": "2018-03-24T08:58:40Z",
+                "owner": "rtfeldman",
+                "repo": "grunt-elm",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unmaintained"
         }
       ],
       "title": "Compile and bundle"
@@ -855,6 +963,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "atom-elm-snippets",
+              "description": "Elm snippets for Atom.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55013252,
+                "language": "CoffeeScript",
+                "last_commit": "2016-12-07T16:16:41Z",
+                "owner": "chiefGui",
+                "repo": "atom-elm-snippets",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Atom"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "emacs-elm-mode",
+              "description": "Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14056575,
+                "language": "Emacs Lisp",
+                "last_commit": "2025-04-01T09:15:09Z",
+                "owner": "jcollard",
+                "repo": "elm-mode",
+                "stars": 382
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emacs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elm-plugin",
+              "description": "Elm plugin for IntelliJ IDEA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104530474,
+                "language": "Kotlin",
+                "last_commit": "2024-08-09T09:43:26Z",
+                "owner": "intellij-elm",
+                "repo": "intellij-elm",
+                "stars": 406
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IntelliJ"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Elm Language Server",
               "description": "Language server implementation for Elm",
               "children": [],
@@ -969,6 +1143,28 @@
           "description": null,
           "node_type": "group",
           "title": "Vim/Neovim"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "elm-light-table",
+              "description": "Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44300176,
+                "language": "JavaScript",
+                "last_commit": "2017-03-07T20:41:43Z",
+                "owner": "rundis",
+                "repo": "elm-light",
+                "stars": 132
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other editors"
         }
       ],
       "title": "Editor plugins"
@@ -988,7 +1184,7 @@
             "last_commit": "2023-11-03T22:11:23Z",
             "owner": "rtfeldman",
             "repo": "elm-spa-example",
-            "stars": 3303
+            "stars": 3304
           }
         },
         {
@@ -1403,7 +1599,7 @@
             "archived": false,
             "id": 166616185,
             "language": "Zig",
-            "last_commit": "2026-08-23T20:22:17Z",
+            "last_commit": "2026-08-24T13:29:29Z",
             "owner": "roc-lang",
             "repo": "roc",
             "stars": 6006
@@ -1418,10 +1614,10 @@
             "archived": false,
             "id": 61973641,
             "language": "Haskell",
-            "last_commit": "2026-08-23T13:38:51Z",
+            "last_commit": "2026-08-24T13:34:03Z",
             "owner": "dmjio",
             "repo": "miso",
-            "stars": 2427
+            "stars": 2428
           }
         },
         {
@@ -1463,10 +1659,10 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-23T21:28:26Z",
+            "last_commit": "2026-08-24T13:48:00Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1267
+            "stars": 1268
           }
         },
         {
@@ -1627,10 +1823,46 @@
         }
       ],
       "title": "Beyond the DOM"
+    },
+    {
+      "description": "Discover other amazingly awesome lists.\nAwesome Elm is just a part of awesome thing, get more here:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome",
+          "description": "by @sindresorhus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21737465,
+            "language": null,
+            "last_commit": "2026-08-21T12:39:13Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 499509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesomeness",
+          "description": "by @bayandin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21600440,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33620
+          }
+        }
+      ],
+      "title": "More awesome"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:28:53.634Z",
+    "last_updated": "2026-08-24T13:58:16.203Z",
     "original_repository": "sporto/awesome-elm",
     "original_repository_id": 35763170,
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",
