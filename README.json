@@ -246,7 +246,7 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-24T13:21:35Z",
+            "last_commit": "2026-08-25T02:41:44Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26687
@@ -1036,7 +1036,7 @@
                 "archived": false,
                 "id": 140211459,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T18:32:32Z",
+                "last_commit": "2026-08-24T23:22:48Z",
                 "owner": "elm-tooling",
                 "repo": "elm-language-server",
                 "stars": 445
@@ -1572,7 +1572,7 @@
             "last_commit": "2026-08-16T21:29:48Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31346
+            "stars": 31347
           }
         },
         {
@@ -1599,7 +1599,7 @@
             "archived": false,
             "id": 166616185,
             "language": "Zig",
-            "last_commit": "2026-08-24T21:22:57Z",
+            "last_commit": "2026-08-25T04:08:33Z",
             "owner": "roc-lang",
             "repo": "roc",
             "stars": 6008
@@ -1659,7 +1659,7 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-24T18:58:16Z",
+            "last_commit": "2026-08-25T00:34:20Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
@@ -1839,7 +1839,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499596
+            "stars": 499693
           }
         },
         {
@@ -1854,7 +1854,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33621
+            "stars": 33625
           }
         }
       ],
@@ -1862,7 +1862,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:37:08.016Z",
+    "last_updated": "2026-08-25T05:51:39.136Z",
     "original_repository": "sporto/awesome-elm",
     "original_repository_id": 35763170,
     "original_repository_sha": "4cbaafcc77d4cabe5a45d2ef4ed40e50c232d157",
