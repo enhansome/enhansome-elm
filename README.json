@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T07:47:17Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7887
-          }
+            "stars": 7888
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "evancz",
             "repo": "elm-architecture-tutorial",
             "stars": 4166
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "izdi",
             "repo": "elm-cheat-sheet",
             "stars": 948
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "dwyl",
             "repo": "learn-elm",
             "stars": 495
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "robertjlooby",
             "repo": "elm-koans",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "eeue56",
             "repo": "haskell-to-elm",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "hayleigh-dot-dev",
             "repo": "awesome-elm-pltd",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "children": [
@@ -123,7 +130,8 @@
                 "owner": "eeue56",
                 "repo": "take-home",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -151,7 +159,8 @@
                 "owner": "Dobiasd",
                 "repo": "articles",
                 "stars": 1587
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -173,7 +182,8 @@
                 "owner": "eeue56",
                 "repo": "elm-for-web-developers",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -199,7 +209,8 @@
             "owner": "elm-explorations",
             "repo": "test",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -214,7 +225,8 @@
             "owner": "avh4",
             "repo": "elm-program-test",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -229,7 +241,8 @@
             "owner": "brian-watkins",
             "repo": "elm-spec",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         }
       ],
       "title": "Testing"
@@ -246,11 +259,12 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-27T10:07:23Z",
+            "last_commit": "2026-08-28T04:15:32Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26686
-          }
+            "stars": 26688
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -261,11 +275,12 @@
             "archived": false,
             "id": 97062850,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T18:26:08Z",
+            "last_commit": "2026-08-28T04:57:52Z",
             "owner": "glideapps",
             "repo": "quicktype",
-            "stars": 13843
-          }
+            "stars": 13845
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -280,7 +295,8 @@
             "owner": "dillonkearns",
             "repo": "elm-graphql",
             "stars": 787
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -295,7 +311,8 @@
             "owner": "dillonkearns",
             "repo": "elm-typescript-interop",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -310,7 +327,8 @@
             "owner": "mdgriffith",
             "repo": "elm-codegen",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -325,7 +343,8 @@
             "owner": "agrafix",
             "repo": "elm-bridge",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -340,7 +359,8 @@
             "owner": "monty5811",
             "repo": "postcss-elm-tailwind",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -355,7 +375,8 @@
             "owner": "dragonwasrobot",
             "repo": "json-schema-to-elm",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -370,7 +391,8 @@
             "owner": "vendrinc",
             "repo": "elm-gql",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -385,7 +407,8 @@
             "owner": "haskell-to-elm",
             "repo": "haskell-to-elm",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -400,7 +423,8 @@
             "owner": "anmolitor",
             "repo": "travelm-agency",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -415,7 +439,8 @@
             "owner": "dillonkearns",
             "repo": "elm-ts-json",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -430,7 +455,8 @@
             "owner": "anmolitor",
             "repo": "protoc-gen-elm",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         }
       ],
       "title": "Code generators"
@@ -447,11 +473,12 @@
             "archived": false,
             "id": 67362231,
             "language": "JavaScript",
-            "last_commit": "2026-07-28T18:47:10Z",
+            "last_commit": "2026-08-27T21:48:03Z",
             "owner": "halfzebra",
             "repo": "create-elm-app",
             "stars": 1677
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -466,7 +493,8 @@
             "owner": "wking-io",
             "repo": "elm-live",
             "stars": 1068
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -481,7 +509,8 @@
             "owner": "cedricss",
             "repo": "elm-batteries",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -496,7 +525,8 @@
             "owner": "rlopzc",
             "repo": "elm-webpack-starter",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -511,7 +541,8 @@
             "owner": "GioPat",
             "repo": "elm-boil",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -526,7 +557,8 @@
             "owner": "klazuka",
             "repo": "example-elm-hot-webpack",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "children": [
@@ -543,7 +575,8 @@
                 "owner": "elm-community",
                 "repo": "elm-webpack-starter",
                 "stars": 851
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -558,7 +591,8 @@
                 "owner": "gkubisa",
                 "repo": "elm-app-boilerplate",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -573,7 +607,8 @@
                 "owner": "simonewebdesign",
                 "repo": "elm-new",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -588,7 +623,8 @@
                 "owner": "khusnetdinov",
                 "repo": "elmkit",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -603,7 +639,8 @@
                 "owner": "JustusAdam",
                 "repo": "elm-init",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -618,7 +655,8 @@
                 "owner": "janwirth",
                 "repo": "elm-webpack-starter-kid",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -633,7 +671,8 @@
                 "owner": "guillaumearm",
                 "repo": "elm-boilerplate",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -648,7 +687,8 @@
                 "owner": "ashellwig",
                 "repo": "generator-elm-mdl",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -674,7 +714,8 @@
             "owner": "stil4m",
             "repo": "elm-analyse",
             "stars": 416
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -689,7 +730,8 @@
             "owner": "jfmengels",
             "repo": "elm-review",
             "stars": 283
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         }
       ],
       "title": "Static analysis"
@@ -710,7 +752,8 @@
             "owner": "lucamug",
             "repo": "elm-starter",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         }
       ],
       "title": "Static site generators"
@@ -731,7 +774,8 @@
             "owner": "kalutheo",
             "repo": "elm-ui-explorer",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         }
       ],
       "title": "Showcase generators"
@@ -751,8 +795,9 @@
             "last_commit": "2026-07-13T16:33:41Z",
             "owner": "lydell",
             "repo": "elm-watch",
-            "stars": 186
-          }
+            "stars": 185
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -767,7 +812,8 @@
             "owner": "jfairbank",
             "repo": "run-elm",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         }
       ],
       "title": "Run Elm"
@@ -787,8 +833,9 @@
             "last_commit": "2026-08-26T07:47:17Z",
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7887
-          }
+            "stars": 7888
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -803,7 +850,8 @@
             "owner": "elm-community",
             "repo": "elm-webpack-loader",
             "stars": 532
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -818,7 +866,8 @@
             "owner": "hmsk",
             "repo": "vite-plugin-elm",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "children": [
@@ -835,7 +884,8 @@
                 "owner": "rtfeldman",
                 "repo": "grunt-elm",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -861,7 +911,8 @@
             "owner": "avh4",
             "repo": "elm-format",
             "stars": 1333
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -876,7 +927,8 @@
             "owner": "gicentre",
             "repo": "litvis",
             "stars": 408
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -891,7 +943,8 @@
             "owner": "stereobooster",
             "repo": "type-o-rama",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -906,7 +959,8 @@
             "owner": "zwilias",
             "repo": "elm-json",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -921,7 +975,8 @@
             "owner": "ElmCast",
             "repo": "elm-oracle",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -936,7 +991,8 @@
             "owner": "dmy",
             "repo": "elm-doc-preview",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -951,7 +1007,8 @@
             "owner": "albertdahlin",
             "repo": "elm-posix",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         }
       ],
       "title": "Other tools"
@@ -974,7 +1031,8 @@
                 "owner": "chiefGui",
                 "repo": "atom-elm-snippets",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -996,7 +1054,8 @@
                 "owner": "jcollard",
                 "repo": "elm-mode",
                 "stars": 382
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -1018,7 +1077,8 @@
                 "owner": "intellij-elm",
                 "repo": "intellij-elm",
                 "stars": 406
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -1040,7 +1100,8 @@
                 "owner": "elm-tooling",
                 "repo": "elm-language-server",
                 "stars": 445
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -1055,7 +1116,8 @@
                 "owner": "evancz",
                 "repo": "elm-format-on-save",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -1070,7 +1132,8 @@
                 "owner": "sublimelsp",
                 "repo": "LSP-elm",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -1092,7 +1155,8 @@
                 "owner": "mattn",
                 "repo": "emmet-vim",
                 "stars": 6467
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -1107,7 +1171,8 @@
                 "owner": "ElmCast",
                 "repo": "elm-vim",
                 "stars": 572
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -1122,7 +1187,8 @@
                 "owner": "hoelzro",
                 "repo": "vim-elm-help",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -1137,7 +1203,8 @@
                 "owner": "theJian",
                 "repo": "elm.vim",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -1159,7 +1226,8 @@
                 "owner": "rundis",
                 "repo": "elm-light",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -1185,7 +1253,8 @@
             "owner": "rtfeldman",
             "repo": "elm-spa-example",
             "stars": 3304
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1200,7 +1269,8 @@
             "owner": "evancz",
             "repo": "elm-todomvc",
             "stars": 1215
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1215,7 +1285,8 @@
             "owner": "sporto",
             "repo": "elm-example-app",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1230,7 +1301,8 @@
             "owner": "huytd",
             "repo": "kanelm",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1245,7 +1317,8 @@
             "owner": "mt-bt",
             "repo": "gipher",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1260,7 +1333,8 @@
             "owner": "halfzebra",
             "repo": "elm-examples",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1275,7 +1349,8 @@
             "owner": "jschomay",
             "repo": "elm-narrative-engine",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1290,7 +1365,8 @@
             "owner": "andrewsuzuki",
             "repo": "elm-todo-rest-api",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1305,7 +1381,8 @@
             "owner": "nirgn975",
             "repo": "elmctron",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1320,7 +1397,8 @@
             "owner": "FidelisClayton",
             "repo": "elm-spotify-mapper",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1335,7 +1413,8 @@
             "owner": "ThomasWeiser",
             "repo": "todomvc-elmfire",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1350,7 +1429,8 @@
             "owner": "glung",
             "repo": "elm-architecture-android",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1365,7 +1445,8 @@
             "owner": "ronanyeah",
             "repo": "elm-phoenix-example",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1380,7 +1461,8 @@
             "owner": "teesloane",
             "repo": "arisgarden",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1395,7 +1477,8 @@
             "owner": "ohanhi",
             "repo": "elm-ement",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1410,7 +1493,8 @@
             "owner": "johannesvollmer",
             "repo": "regex-nodes",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1425,7 +1509,8 @@
             "owner": "denisorehovsky",
             "repo": "django-elm-auth-with-jwt",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1440,7 +1525,8 @@
             "owner": "bkbooth",
             "repo": "Elmstagram",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1455,7 +1541,8 @@
             "owner": "brenopanzolini",
             "repo": "pokelmon",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1470,7 +1557,8 @@
             "owner": "tarbh-engineering",
             "repo": "journal",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1485,7 +1573,8 @@
             "owner": "jouderianjr",
             "repo": "bitcoin-br-chrome-extension",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1500,7 +1589,8 @@
             "owner": "devopsmariocom",
             "repo": "elm-hn-pwa",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1515,7 +1605,8 @@
             "owner": "pecheneg2015",
             "repo": "elm-conway-life",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "children": [
@@ -1532,7 +1623,8 @@
                 "owner": "rofrol",
                 "repo": "elm-games",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             },
             {
               "node_type": "item",
@@ -1547,7 +1639,8 @@
                 "owner": "thematters",
                 "repo": "thespace-app",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:14:31.140Z"
             }
           ],
           "description": null,
@@ -1569,11 +1662,12 @@
             "archived": false,
             "id": 197081291,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:03:54Z",
+            "last_commit": "2026-08-27T12:27:38Z",
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31371
-          }
+            "stars": 31375
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1588,7 +1682,8 @@
             "owner": "hyperapp",
             "repo": "hyperapp",
             "stars": 19198
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1599,11 +1694,12 @@
             "archived": false,
             "id": 166616185,
             "language": "Zig",
-            "last_commit": "2026-08-27T11:20:30Z",
+            "last_commit": "2026-08-28T02:53:03Z",
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 6010
-          }
+            "stars": 6014
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1614,11 +1710,12 @@
             "archived": false,
             "id": 61973641,
             "language": "Haskell",
-            "last_commit": "2026-08-26T17:27:36Z",
+            "last_commit": "2026-08-27T20:31:24Z",
             "owner": "dmjio",
             "repo": "miso",
             "stars": 2430
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1632,8 +1729,9 @@
             "last_commit": "2026-08-23T13:30:06Z",
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2419
-          }
+            "stars": 2420
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1648,7 +1746,8 @@
             "owner": "ivanceras",
             "repo": "sauron",
             "stars": 2066
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1659,11 +1758,12 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-27T00:43:00Z",
+            "last_commit": "2026-08-28T02:12:44Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1678,7 +1778,8 @@
             "owner": "spotify",
             "repo": "mobius",
             "stars": 1263
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1693,7 +1794,8 @@
             "owner": "wende",
             "repo": "elchemy",
             "stars": 1150
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1708,7 +1810,8 @@
             "owner": "elmish",
             "repo": "elmish",
             "stars": 905
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1723,7 +1826,8 @@
             "owner": "OvermindDL1",
             "repo": "bucklescript-tea",
             "stars": 598
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1738,7 +1842,8 @@
             "owner": "easafe",
             "repo": "purescript-flame",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1753,7 +1858,8 @@
             "owner": "vankeisb",
             "repo": "react-tea-cup",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         }
       ],
       "title": "Inspired by Elm"
@@ -1774,7 +1880,8 @@
             "owner": "ktonon",
             "repo": "elm-serverless",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1789,7 +1896,8 @@
             "owner": "pzp1997",
             "repo": "elm-ios",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1804,7 +1912,8 @@
             "owner": "albertdahlin",
             "repo": "elm-posix",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1819,7 +1928,8 @@
             "owner": "Chadtech",
             "repo": "elmish-wasm",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         }
       ],
       "title": "Beyond the DOM"
@@ -1839,8 +1949,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500361
-          }
+            "stars": 500603
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         },
         {
           "node_type": "item",
@@ -1854,15 +1965,16 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33628
-          }
+            "stars": 33632
+          },
+          "first_seen": "2026-08-28T05:14:31.140Z"
         }
       ],
       "title": "More awesome"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:24.460Z",
+    "last_updated": "2026-08-28T05:14:31.140Z",
     "original_repository_info": {
       "archived": false,
       "id": 35763170,
