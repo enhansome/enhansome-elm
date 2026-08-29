@@ -19,7 +19,7 @@
             "open_issues": 304,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7890,
+            "stars": 7894,
             "topics": [
               "compiler",
               "elm"
@@ -358,10 +358,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:15:32Z",
-            "open_issues": 5710,
+            "open_issues": 5713,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26696,
+            "stars": 26701,
             "topics": [
               "api",
               "api-client",
@@ -392,8 +392,8 @@
             "id": 97062850,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:17:09Z",
-            "open_issues": 222,
+            "last_commit": "2026-08-29T21:40:14Z",
+            "open_issues": 224,
             "owner": "glideapps",
             "repo": "quicktype",
             "stars": 13845,
@@ -1236,7 +1236,7 @@
             "open_issues": 304,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7890,
+            "stars": 7894,
             "topics": [
               "compiler",
               "elm"
@@ -2457,11 +2457,11 @@
             "id": 197081291,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T09:46:50Z",
+            "last_commit": "2026-08-29T15:28:57Z",
             "open_issues": 487,
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31385,
+            "stars": 31388,
             "topics": [
               "elm",
               "graphics",
@@ -2515,8 +2515,8 @@
             "id": 166616185,
             "language": "Zig",
             "license": "UPL-1.0",
-            "last_commit": "2026-08-29T02:58:46Z",
-            "open_issues": 190,
+            "last_commit": "2026-08-29T22:13:32Z",
+            "open_issues": 193,
             "owner": "roc-lang",
             "repo": "roc",
             "stars": 6015,
@@ -2541,7 +2541,7 @@
             "id": 61973641,
             "language": "Haskell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-27T20:31:24Z",
+            "last_commit": "2026-08-29T20:10:54Z",
             "open_issues": 22,
             "owner": "dmjio",
             "repo": "miso",
@@ -2579,7 +2579,7 @@
             "open_issues": 21,
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2423,
+            "stars": 2424,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2922,7 +2922,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500890,
+            "stars": 501151,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2946,10 +2946,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634,
+            "stars": 33637,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2959,7 +2959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:19:36.124Z",
+    "last_updated": "2026-08-29T23:12:41.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:",
