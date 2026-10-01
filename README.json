@@ -19,7 +19,7 @@
             "open_issues": 305,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7905,
+            "stars": 7904,
             "topics": [
               "compiler",
               "elm"
@@ -43,7 +43,7 @@
             "open_issues": 10,
             "owner": "evancz",
             "repo": "elm-architecture-tutorial",
-            "stars": 4164,
+            "stars": 4163,
             "topics": [
               "elm",
               "examples"
@@ -283,7 +283,7 @@
             "language": "Elm",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-29T08:55:28Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "elm-explorations",
             "repo": "test",
             "stars": 244,
@@ -357,11 +357,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T18:33:19Z",
-            "open_issues": 5737,
+            "last_commit": "2026-09-30T23:15:31Z",
+            "open_issues": 5734,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26775,
+            "stars": 26772,
             "topics": [
               "api",
               "api-client",
@@ -396,7 +396,7 @@
             "open_issues": 225,
             "owner": "glideapps",
             "repo": "quicktype",
-            "stars": 13877,
+            "stars": 13879,
             "topics": [
               "cplusplus",
               "csharp",
@@ -1236,7 +1236,7 @@
             "open_issues": 305,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7905,
+            "stars": 7904,
             "topics": [
               "compiler",
               "elm"
@@ -1260,7 +1260,7 @@
             "open_issues": 53,
             "owner": "elm-community",
             "repo": "elm-webpack-loader",
-            "stars": 532,
+            "stars": 531,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -1623,7 +1623,7 @@
                 "id": 140211459,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T17:53:07Z",
+                "last_commit": "2026-09-30T19:03:55Z",
                 "open_issues": 52,
                 "owner": "elm-tooling",
                 "repo": "elm-language-server",
@@ -2457,11 +2457,11 @@
             "id": 197081291,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-29T21:14:41Z",
-            "open_issues": 507,
+            "last_commit": "2026-09-30T22:28:07Z",
+            "open_issues": 506,
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31606,
+            "stars": 31627,
             "topics": [
               "elm",
               "graphics",
@@ -2493,7 +2493,7 @@
             "open_issues": 15,
             "owner": "hyperapp",
             "repo": "hyperapp",
-            "stars": 19193,
+            "stars": 19192,
             "topics": [
               "framework",
               "javascript",
@@ -2515,11 +2515,11 @@
             "id": 166616185,
             "language": "Zig",
             "license": "UPL-1.0",
-            "last_commit": "2026-09-29T23:42:52Z",
-            "open_issues": 222,
+            "last_commit": "2026-09-30T23:38:29Z",
+            "open_issues": 256,
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 6081,
+            "stars": 6084,
             "topics": [
               "functional-language",
               "functional-programming",
@@ -2541,11 +2541,11 @@
             "id": 457999787,
             "language": "Gleam",
             "license": "MIT",
-            "last_commit": "2026-09-29T08:46:23Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-30T16:57:22Z",
+            "open_issues": 16,
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2444,
+            "stars": 2445,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2562,7 +2562,7 @@
             "id": 61973641,
             "language": "Haskell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-29T04:33:43Z",
+            "last_commit": "2026-09-30T23:19:20Z",
             "open_issues": 26,
             "owner": "dmjio",
             "repo": "miso",
@@ -2625,11 +2625,11 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T04:17:42Z",
+            "last_commit": "2026-09-30T23:42:29Z",
             "open_issues": 15,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1283,
+            "stars": 1284,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -2922,7 +2922,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 512448,
+            "stars": 512886,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2949,7 +2949,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33695,
+            "stars": 33696,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2959,7 +2959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:17:43.418Z",
+    "last_updated": "2026-10-01T00:28:45.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:",
@@ -2971,7 +2971,7 @@
       "open_issues": 4,
       "owner": "sporto",
       "repo": "awesome-elm",
-      "stars": 3688,
+      "stars": 3687,
       "topics": [
         "awesome",
         "awesome-list",
