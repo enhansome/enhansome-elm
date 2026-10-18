@@ -19,7 +19,7 @@
             "open_issues": 306,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7913,
+            "stars": 7915,
             "topics": [
               "compiler",
               "elm"
@@ -357,11 +357,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T05:00:03Z",
-            "open_issues": 5780,
+            "last_commit": "2026-10-18T13:23:08Z",
+            "open_issues": 5782,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26805,
+            "stars": 26806,
             "topics": [
               "api",
               "api-client",
@@ -392,11 +392,11 @@
             "id": 97062850,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T10:46:24Z",
-            "open_issues": 231,
+            "last_commit": "2026-10-18T13:17:20Z",
+            "open_issues": 232,
             "owner": "glideapps",
             "repo": "quicktype",
-            "stars": 13890,
+            "stars": 13891,
             "topics": [
               "cplusplus",
               "csharp",
@@ -1236,7 +1236,7 @@
             "open_issues": 306,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7913,
+            "stars": 7915,
             "topics": [
               "compiler",
               "elm"
@@ -1680,7 +1680,7 @@
                 "id": 217999168,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T18:39:35Z",
+                "last_commit": "2026-10-18T13:07:38Z",
                 "open_issues": 1,
                 "owner": "sublimelsp",
                 "repo": "LSP-elm",
@@ -1712,7 +1712,7 @@
                 "open_issues": 132,
                 "owner": "mattn",
                 "repo": "emmet-vim",
-                "stars": 6465,
+                "stars": 6466,
                 "topics": [
                   "css",
                   "emmet",
@@ -2458,10 +2458,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-17T22:16:03Z",
-            "open_issues": 508,
+            "open_issues": 509,
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 31790,
+            "stars": 31799,
             "topics": [
               "elm",
               "graphics",
@@ -2493,7 +2493,7 @@
             "open_issues": 15,
             "owner": "hyperapp",
             "repo": "hyperapp",
-            "stars": 19196,
+            "stars": 19193,
             "topics": [
               "framework",
               "javascript",
@@ -2515,7 +2515,7 @@
             "id": 166616185,
             "language": "Zig",
             "license": "UPL-1.0",
-            "last_commit": "2026-10-17T22:23:29Z",
+            "last_commit": "2026-10-18T22:38:15Z",
             "open_issues": 233,
             "owner": "roc-lang",
             "repo": "roc",
@@ -2545,7 +2545,7 @@
             "open_issues": 24,
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2473,
+            "stars": 2474,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2625,11 +2625,11 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T13:59:03Z",
+            "last_commit": "2026-10-18T20:04:51Z",
             "open_issues": 8,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1293,
+            "stars": 1294,
             "topics": [
               "declarative-ui",
               "fabulous",
@@ -2922,7 +2922,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 520465,
+            "stars": 520961,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2949,7 +2949,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33727,
+            "stars": 33729,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2959,7 +2959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:00:21.413Z",
+    "last_updated": "2026-10-18T22:58:32.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:",
