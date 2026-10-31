@@ -19,7 +19,7 @@
             "open_issues": 306,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7927,
+            "stars": 7928,
             "topics": [
               "compiler",
               "elm"
@@ -43,7 +43,7 @@
             "open_issues": 10,
             "owner": "evancz",
             "repo": "elm-architecture-tutorial",
-            "stars": 4163,
+            "stars": 4164,
             "topics": [
               "elm",
               "examples"
@@ -357,11 +357,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T13:02:21Z",
-            "open_issues": 5819,
+            "last_commit": "2026-10-30T09:08:27Z",
+            "open_issues": 5826,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26840,
+            "stars": 26843,
             "topics": [
               "api",
               "api-client",
@@ -392,11 +392,11 @@
             "id": 97062850,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T08:53:28Z",
-            "open_issues": 233,
+            "last_commit": "2026-10-30T02:49:13Z",
+            "open_issues": 234,
             "owner": "glideapps",
             "repo": "quicktype",
-            "stars": 13901,
+            "stars": 13904,
             "topics": [
               "cplusplus",
               "csharp",
@@ -1236,7 +1236,7 @@
             "open_issues": 306,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7927,
+            "stars": 7928,
             "topics": [
               "compiler",
               "elm"
@@ -1423,7 +1423,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2023-07-26T17:32:26Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "zwilias",
             "repo": "elm-json",
             "stars": 185,
@@ -1680,7 +1680,7 @@
                 "id": 217999168,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-25T20:30:05Z",
+                "last_commit": "2026-10-30T22:46:37Z",
                 "open_issues": 1,
                 "owner": "sublimelsp",
                 "repo": "LSP-elm",
@@ -1712,7 +1712,7 @@
                 "open_issues": 132,
                 "owner": "mattn",
                 "repo": "emmet-vim",
-                "stars": 6465,
+                "stars": 6466,
                 "topics": [
                   "css",
                   "emmet",
@@ -1841,7 +1841,7 @@
             "open_issues": 50,
             "owner": "rtfeldman",
             "repo": "elm-spa-example",
-            "stars": 3308,
+            "stars": 3309,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2458,7 +2458,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-21T18:35:59Z",
-            "open_issues": 515,
+            "open_issues": 516,
             "owner": "iced-rs",
             "repo": "iced",
             "stars": 31867,
@@ -2493,7 +2493,7 @@
             "open_issues": 15,
             "owner": "hyperapp",
             "repo": "hyperapp",
-            "stars": 19191,
+            "stars": 19190,
             "topics": [
               "framework",
               "javascript",
@@ -2515,11 +2515,11 @@
             "id": 166616185,
             "language": "Zig",
             "license": "UPL-1.0",
-            "last_commit": "2026-10-30T00:24:56Z",
-            "open_issues": 211,
+            "last_commit": "2026-10-31T00:23:15Z",
+            "open_issues": 212,
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 6174,
+            "stars": 6179,
             "topics": [
               "functional-language",
               "functional-programming",
@@ -2541,8 +2541,8 @@
             "id": 457999787,
             "language": "Gleam",
             "license": "MIT",
-            "last_commit": "2026-10-29T23:02:53Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-30T23:21:07Z",
+            "open_issues": 19,
             "owner": "lustre-labs",
             "repo": "lustre",
             "stars": 2490,
@@ -2563,7 +2563,7 @@
             "language": "Haskell",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-29T21:20:07Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "dmjio",
             "repo": "miso",
             "stars": 2446,
@@ -2922,7 +2922,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 526865,
+            "stars": 527517,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2949,7 +2949,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33758,
+            "stars": 33757,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2959,7 +2959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T00:46:25.302Z",
+    "last_updated": "2026-10-31T00:38:24.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:",
@@ -2971,7 +2971,7 @@
       "open_issues": 4,
       "owner": "sporto",
       "repo": "awesome-elm",
-      "stars": 3690,
+      "stars": 3691,
       "topics": [
         "awesome",
         "awesome-list",
