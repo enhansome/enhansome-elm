@@ -19,7 +19,7 @@
             "open_issues": 309,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7942,
+            "stars": 7941,
             "topics": [
               "compiler",
               "elm"
@@ -357,11 +357,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T00:34:19Z",
-            "open_issues": 5889,
+            "last_commit": "2026-11-20T04:21:24Z",
+            "open_issues": 5890,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26861,
+            "stars": 26866,
             "topics": [
               "api",
               "api-client",
@@ -396,7 +396,7 @@
             "open_issues": 249,
             "owner": "glideapps",
             "repo": "quicktype",
-            "stars": 13916,
+            "stars": 13917,
             "topics": [
               "cplusplus",
               "csharp",
@@ -682,7 +682,7 @@
             "id": 67362231,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T12:48:49Z",
+            "last_commit": "2026-11-20T04:07:17Z",
             "open_issues": 54,
             "owner": "halfzebra",
             "repo": "create-elm-app",
@@ -1236,7 +1236,7 @@
             "open_issues": 309,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7942,
+            "stars": 7941,
             "topics": [
               "compiler",
               "elm"
@@ -1256,7 +1256,7 @@
             "id": 32271087,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-13T00:56:53Z",
+            "last_commit": "2026-11-21T01:26:31Z",
             "open_issues": 46,
             "owner": "elm-community",
             "repo": "elm-webpack-loader",
@@ -1859,7 +1859,7 @@
             "language": "Elm",
             "license": "BSD-3-Clause",
             "last_commit": "2020-01-07T21:49:33Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "evancz",
             "repo": "elm-todomvc",
             "stars": 1212,
@@ -2458,10 +2458,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-19T12:06:29Z",
-            "open_issues": 531,
+            "open_issues": 533,
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 32080,
+            "stars": 32086,
             "topics": [
               "elm",
               "graphics",
@@ -2515,11 +2515,11 @@
             "id": 166616185,
             "language": "Zig",
             "license": "UPL-1.0",
-            "last_commit": "2026-11-20T01:45:15Z",
-            "open_issues": 276,
+            "last_commit": "2026-11-21T01:34:26Z",
+            "open_issues": 270,
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 6199,
+            "stars": 6203,
             "topics": [
               "functional-language",
               "functional-programming",
@@ -2545,7 +2545,7 @@
             "open_issues": 13,
             "owner": "lustre-labs",
             "repo": "lustre",
-            "stars": 2511,
+            "stars": 2513,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2652,10 +2652,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-07T08:54:04Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "spotify",
             "repo": "mobius",
-            "stars": 1264,
+            "stars": 1263,
             "topics": [
               "android",
               "functional-reactive-programming",
@@ -2922,7 +2922,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 539561,
+            "stars": 540053,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2949,7 +2949,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33800,
+            "stars": 33803,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2959,7 +2959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:12:20.699Z",
+    "last_updated": "2026-11-21T02:05:09.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:",
