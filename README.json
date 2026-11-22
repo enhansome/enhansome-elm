@@ -19,7 +19,7 @@
             "open_issues": 309,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7941,
+            "stars": 7942,
             "topics": [
               "compiler",
               "elm"
@@ -357,8 +357,8 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T04:21:24Z",
-            "open_issues": 5890,
+            "last_commit": "2026-11-21T16:48:55Z",
+            "open_issues": 5878,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26866,
@@ -1179,7 +1179,7 @@
             "id": 368145352,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T22:44:40Z",
+            "last_commit": "2026-11-21T20:16:33Z",
             "open_issues": 16,
             "owner": "lydell",
             "repo": "elm-watch",
@@ -1236,7 +1236,7 @@
             "open_issues": 309,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7941,
+            "stars": 7942,
             "topics": [
               "compiler",
               "elm"
@@ -1256,8 +1256,8 @@
             "id": 32271087,
             "language": "JavaScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-21T01:26:31Z",
-            "open_issues": 46,
+            "last_commit": "2026-11-21T22:19:08Z",
+            "open_issues": 37,
             "owner": "elm-community",
             "repo": "elm-webpack-loader",
             "stars": 531,
@@ -1712,7 +1712,7 @@
                 "open_issues": 132,
                 "owner": "mattn",
                 "repo": "emmet-vim",
-                "stars": 6464,
+                "stars": 6463,
                 "topics": [
                   "css",
                   "emmet",
@@ -2458,10 +2458,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-19T12:06:29Z",
-            "open_issues": 533,
+            "open_issues": 536,
             "owner": "iced-rs",
             "repo": "iced",
-            "stars": 32086,
+            "stars": 32092,
             "topics": [
               "elm",
               "graphics",
@@ -2515,11 +2515,11 @@
             "id": 166616185,
             "language": "Zig",
             "license": "UPL-1.0",
-            "last_commit": "2026-11-21T01:34:26Z",
-            "open_issues": 270,
+            "last_commit": "2026-11-21T21:12:31Z",
+            "open_issues": 265,
             "owner": "roc-lang",
             "repo": "roc",
-            "stars": 6203,
+            "stars": 6204,
             "topics": [
               "functional-language",
               "functional-programming",
@@ -2562,7 +2562,7 @@
             "id": 61973641,
             "language": "Haskell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T21:15:28Z",
+            "last_commit": "2026-11-21T23:28:28Z",
             "open_issues": 27,
             "owner": "dmjio",
             "repo": "miso",
@@ -2922,7 +2922,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 540053,
+            "stars": 540539,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2949,7 +2949,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33803,
+            "stars": 33809,
             "topics": []
           },
           "first_seen": "2026-08-28T05:14:31.140Z"
@@ -2959,7 +2959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:05:09.402Z",
+    "last_updated": "2026-11-22T01:07:41.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:",
